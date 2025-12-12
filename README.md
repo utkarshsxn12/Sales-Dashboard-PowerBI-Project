@@ -149,13 +149,14 @@ Feel free to ⭐ **star this repository** if you find it useful!
 ## 📸 Dashboard Preview
 
 ### 🔹 Main Dashboard Overview
-![Dashboard Page 1](Images/dashboardpage1.png)
+![Dashboard Page 1](Images/DashboardPage1.png)
 
 ### 🔹 Sales Trend Analysis
-![Sales Trend](Images/salestrend.png)
+![Sales Trend](Images/SalesTrend.png)
 
 ### 🔹 Same Period Last Year (SPLY) Comparison
-![SPLY](Images/sameperiodlastyear.png)
+![SPLY](Images/SamePeriodLastYear.png)
+
 
 
 Live Project - https://url-shortener.me/33IJ
