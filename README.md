@@ -146,6 +146,19 @@ This project highlights:
 
 Feel free to ⭐ **star this repository** if you find it useful!
 
-Project Link - https://url-shortener.me/33IJ
+## 📸 Dashboard Preview
+
+### 🔹 Main Dashboard Overview
+![Dashboard Page 1](Images/dashboardpage1.png)
+
+### 🔹 Sales Trend Analysis
+![Sales Trend](Images/salestrend.png)
+
+### 🔹 Same Period Last Year (SPLY) Comparison
+![SPLY](Images/sameperiodlastyear.png)
+
+
+Live Project - https://url-shortener.me/33IJ
+
 
 
