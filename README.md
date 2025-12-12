@@ -121,7 +121,7 @@ IF([Model Rank] <= 3, "Top 3", "Others")
 ## 📁 Repository Structure
 
 ```
-📂 Mobile-Sales-Dashboard
+📂Sales-Dashboard
  ├── 📄 Mobile_Sales_Dashboard.pbix
  ├── 📄 sales_dataset.xlsx / csv
  ├── 📁 Images (screenshots of dashboard)
